@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: rgba(253, 216, 95, 0.74);
+  color: #fff;
+  line-height: 1.7;
+  background-image: url(../public/assets/cartographer.png);
 }
 
 code {

@@ -1,0 +1,65 @@
+export const Films = [
+    {
+        id: 1,
+        "Image": "assets/banner1.jpg" ,
+        "Title": "Phi công siêu đẳng Maverick",
+        "Year": "2022",
+        "Nation": "USA",
+    },
+    {
+        id: 2,
+        "Image": "assets/banner2.jpg" ,
+        "Title": "Women Talking",
+        "Year": "12/2022",
+        "Nation": "USA",
+    },
+    {
+        id: 3,
+        "Image": "assets/banner3.jpg", 
+        "Title": "Cuộc chiến đa vũ trụ",
+        "Year": "3/2022",
+        "Nation": "USA",
+    },
+    {
+        id: 4,
+        "Image": "assets/banner4.jpg" ,
+        "Title": "the banshees of inisherin",
+        "Year": "10/2022",
+        "Nation": "USA",
+    },
+    {
+        id: 5,
+        "Image": "assets/banner5.jpg" ,
+        "Title": "Đáy thượng lưu",
+        "Year": "2022",
+        "Nation": "USA",
+    },
+    {
+        id: 6,
+        "Image": "assets/banner6.jpg" ,
+        "Title": "The Fabelmans: Tuổi trẻ huy hoàng",
+        "Year": "2022",
+        "Nation": "USA",
+    },
+    {
+        id: 7,
+        "Image": "assets/banner7.jpg" ,
+        "Title": "All Quiet on the Western Front",
+        "Year": "2022",
+        "Nation": "USA",
+    },
+    {
+        id: 8,
+        "Image": "assets/banner8.jpg" ,
+        "Title": "Avatar: Dòng chảy của nước",
+        "Year": "2022",
+        "Nation": "USA",
+    },
+    {
+        id: 9,
+        "Image": "assets/banner9.jpg" ,
+        "Title": "Elvis",
+        "Year": "6/2022",
+        "Nation": "USA",
+    }
+];
